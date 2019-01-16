@@ -1,0 +1,15 @@
+{
+	rotate X 20
+	rotate Y 5
+	scale 5 5 3
+	translate 4 -10 2
+	file "cubeline"
+}
+
+{
+	rotate X -15
+	rotate Y -5
+	scale 6 5 2
+	translate -13 10 2
+	file "cubeline"	
+}
