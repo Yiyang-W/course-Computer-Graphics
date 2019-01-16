@@ -1,0 +1,109 @@
+{
+	rotate X -25
+	rotate Y 35
+	rotate Z 23
+	scale 50 50 50
+	translate -0.7 -0.7 -2.2
+	file "pyramid"
+}
+{
+	rotate X -25
+	rotate Y 35
+	rotate Z 23
+	scale 50 50 50
+	translate -0.7 0.7 -0.7
+	file "pyramid"
+}
+{
+	scale 15 15 15
+	translate 1.4, 1.4, -1.3
+	rotate X -65
+	rotate Z 10
+	rotate Y 5
+	file "letterL"
+}
+{
+	scale 15 15 15
+	translate 2, 2, -2.3
+	rotate X -65
+	rotate Z 10
+	rotate Y 5
+	file "letterL"
+}
+
+{
+	scale 15 15 15
+	translate 2.6, 2.6, -3.3
+	rotate X -65
+	rotate Z 10
+	rotate Y 5
+	file "letterL"
+}
+{
+	scale 15 15 15
+	translate 3.2, 3.2, -4.3
+	rotate X -65
+	rotate Z 10
+	rotate Y 5
+	file "letterL"
+}
+{
+	scale 15 15 15
+	translate 3.8, 3.8, -5.3
+	rotate X -65
+	rotate Z 10
+	rotate Y 5
+	file "letterL"
+}
+{
+	scale 15 15 15
+	translate 4.4, 4.4, -6.3
+	rotate X -65
+	rotate Z 10
+	rotate Y 5
+	file "letterL"
+}
+{
+	scale 15 15 15
+	translate 5, 5, -7.3
+	rotate X -65
+	rotate Z 10
+	rotate Y 5
+	file "letterL"
+}
+{
+	scale 15 15 15
+	translate 5.6, 5.6, -8.3
+	rotate X -65
+	rotate Z 10
+	rotate Y 5
+	file "letterL"
+}
+{
+	scale 15 15 15
+	translate 6.2, 6.2, -9.3
+	rotate X -65
+	rotate Z 10
+	rotate Y 5
+	file "letterL"
+}
+
+
+
+{
+	scale 15 15 15
+	translate 3.2, -3.2, -2
+	rotate X -60
+	rotate Z 10
+	rotate Y 8
+	file "letterL"
+}
+{
+	scale 15 15 15
+	translate 1, -2, -3.2
+	rotate Z 155
+	rotate X -25
+	
+	rotate Y -20
+	file "letterL"
+}
